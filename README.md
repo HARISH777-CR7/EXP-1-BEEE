@@ -37,30 +37,34 @@ b.  KCL:
 4.   Switch on the RPS.
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
-7.   Take readings for different values of input voltage and tabulate them. 
-CIRCUIT DIAGRAM:
+7.   Take readings for different values of input voltage and tabulate them.
 
-CIRCUIT DIAGRAM:
+  CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- <img width="1920" height="1200" alt="Screenshot 2026-02-09 133833" src="https://github.com/user-attachments/assets/d56b02af-27b0-4699-a7e3-4284e8795051" />
+ <img width="1600" height="849" alt="image" src="https://github.com/user-attachments/assets/862e177a-55e3-4eca-96fd-517869e74e58" />
 
 
 
 b.  KCL:
- <img width="1231" height="560" alt="Screenshot 2026-02-09 140253" src="https://github.com/user-attachments/assets/eeff0544-2de3-485d-94bb-2ac3ebddd5aa" />
+ <img width="1600" height="841" alt="image" src="https://github.com/user-attachments/assets/5110787b-a375-4115-a97a-051e0f82eee3" />
 
 
 Calculation:
 
 a.   KVL:
- <img width="1114" height="854" alt="Screenshot 2026-02-24 085115" src="https://github.com/user-attachments/assets/3701aefa-fd23-4cbe-83b5-a5d036ac391f" />
+
+<img width="468" height="680" alt="Screenshot 2026-03-09 143108" src="https://github.com/user-attachments/assets/b8952032-1264-4e66-8acd-cba3faee81d4" />
+<img width="444" height="233" alt="Screenshot 2026-03-09 143126" src="https://github.com/user-attachments/assets/f5ba9092-ec7e-401f-828c-9e3c6606d267" />
+
 
 
 
 b.  KCL:
-<img width="925" height="842" alt="Screenshot 2026-02-24 085129" src="https://github.com/user-attachments/assets/e7d93d11-0866-46ce-aba0-962cee6cbfb9" />
+
+<img width="692" height="726" alt="Screenshot 2026-03-09 143220" src="https://github.com/user-attachments/assets/eb005865-e29e-4afc-a089-a50b28769376" />
+<img width="1247" height="444" alt="Screenshot 2026-03-09 143141" src="https://github.com/user-attachments/assets/c4d7cada-3179-4813-bc93-4a9816f55cf2" />
 
 
 
@@ -68,13 +72,12 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- <img width="640" height="270" alt="Screenshot 2026-02-28 130749" src="https://github.com/user-attachments/assets/e05c1f02-2eca-4b01-821f-feda3465c01e" />
-
+<img width="1346" height="680" alt="Screenshot 2026-03-09 143153" src="https://github.com/user-attachments/assets/601a5524-a35e-4e86-95ad-9aec232b6502" />
 
 
 b.  KCL:
-<img width="674" height="181" alt="Screenshot 2026-02-28 130720" src="https://github.com/user-attachments/assets/3e2612b0-336b-4ada-8df4-6389abd2931d" />
 
+<img width="1278" height="680" alt="Screenshot 2026-03-09 143208" src="https://github.com/user-attachments/assets/50b1469e-9b3b-4818-80c1-1847b1da2fff" />
 
 
 RESULT:
